@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A peace-making iurie, or, Twelve moderate propositions, tending to the reconciling of the present differences about church-combinations betweixt the Presbyterian and independent / by Philalethirenaus Junior, anno 1650.</title>
+            <author>Hall, Joseph, 1574-1656.</author>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09696</idno><idno type="EEBO-CITATION">69648849</idno>
+  <idno type="VID">185022</idno>
+  <idno type="EEBO-PROQUEST">2240864256</idno>
+  
+            <idno type="OCLC"> 69648849</idno>
+            <idno type="STC">Wing P921C</idno>
+            <idno type="STC">ESTC R215459</idno>
+            <idno type="OCLC">69648849</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09696)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185022)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2884:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A peace-making iurie, or, Twelve moderate propositions, tending to the reconciling of the present differences about church-combinations betweixt the Presbyterian and independent / by Philalethirenaus Junior, anno 1650.</title>
+                  <author>Hall, Joseph, 1574-1656.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. H. for Richard Tomlins, at the Sun and Bible near Pye-Corner,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Massachusetts Historical Society Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Presbyterianism --  Early works to 1800.</term>
+               <term type="topical_term">Church history --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:185022:1"/>
+            <p>A Peace-making Iurie, Or, Twelve Moderate PROPOSITIONS, tending to the reconciling of the present differences about Church-Combinations betwixt the Presbyterian and Independent.</p>
+            <q>
+               <bibl>Jer. <hi>32.39.</hi>
+               </bibl>
+               <p>Cor unum<figure>
+                     <figDesc>heart</figDesc>
+                  </figure> Via una</p>
+               <p>Amen.</p>
+            </q>
+            <p>By <hi>Philalethirenaeus</hi> Junior, <hi>Anno</hi> 1650.</p>
+            <p>Printed by <hi>W. H.</hi> for <hi>Richard Tomlins,</hi> at the Sun and Bible near Pye-corner.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:185022:2"/>
+            <pb n="3" facs="tcp:185022:2"/>
+            <head>A Peace-making Iury, or Twelve moderate Propositions, tending to the reconciling of the present differences about Church-Com<g ref="char:EOLhyphen"/>binations betwixt the Presbyterian and Independent.</head>
+            <div n="1" type="proposition">
+               <head>
+                  <hi>Proposition</hi> I.</head>
+               <p>
+                  <seg rend="decorInit">A</seg>LL the true Organical Churches of Christ, consisting of conve<g ref="char:EOLhyphen"/>nient numbers of visible Saints, and Church-Officers joyned together in the Fellowship of the Gospel, are of (a) equal Power and Authority, not subordinate one to another, but all colla<g ref="char:EOLhyphen"/>teral and coordinate, (b) each having within it self the power of Discipline entirely in causes particularly concerning them<g ref="char:EOLhyphen"/>selves, and not others.</p>
+               <p>(a) It is granted that every <hi>single Congregation</hi> hath <hi>equal Power,</hi> one as much as another, and that there is no <hi>subordination</hi> of one to another, ac<g ref="char:EOLhyphen"/>cording to the trite and known Axiome, <hi>Par in parem non habet Imperium.</hi> Jus Divinum Reg. Eccl. cap. 15. sect. 3. pag. 230.</p>
+               <p>We affirm that no such <hi>Head-Church (viz.</hi> as a <hi>Cathedral</hi>) was or<g ref="char:EOLhyphen"/>dained either virtually, or actually, but that all Churches were singular Con<g ref="char:EOLhyphen"/>gregations equal, <hi>Independent</hi> each of other in regard of subjection. <hi>Baines Dioces. Trial. pag</hi> 13.</p>
+               <p>(b) It is not denied but particular Churches have within themselves power of <hi>Discipline</hi> entirely, so far as any cause in debate particularly and peculiar concerneth themselves and not others. <hi>Ius Divinum, cap.</hi> 15. <hi>sect.</hi> 1.</p>
+               <p>We acknowledge that a Congregation may exercise all <hi>Iurisdiction</hi> in <hi>re propriâ.</hi> Rutherford Due Right, pag. 320.</p>
+               <p>This is a Principle of Church-Policy, <hi>Every Politick body of Christ hath power of Church Government within it self</hi> Idem Ibid.</p>
+            </div>
+            <div n="2" type="proposition">
+               <head>Proposition II.</head>
+               <p>The Consociation of Churches is not only lawful but very useful and necessa<g ref="char:EOLhyphen"/>ry, though not to the being, yet to the well-being of them.</p>
+               <pb n="4" facs="tcp:185022:3"/>
+               <p>
+                  <hi>The</hi> Consociation <hi>of Churches is not only lawful, but very useful also.</hi> T. Hooker Survey part. <hi>4.</hi> cap. <hi>1.</hi> Conclus. <hi>1.</hi>
+               </p>
+               <p>Nemo (inquit Parkerus) quòd sciam, Ecclesiae alicujus reformatae alum<g ref="char:EOLhyphen"/>nus, ante Hugonem Grotium, negavit Synodos esse necessarias, quibus nos <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> libenter profitemur. <hi>Norton adversus Apolon. p. 112.</hi>
+               </p>
+            </div>
+            <div n="3" type="proposition">
+               <head>Proposition III.</head>
+               <p>This Consociation is of several sorts and degrees, some lesser some greater, as Classes, Synods; and these Provincial, National, Oecumenical. <hi>T. Hooker ibid. Conclus. 2. Adding, Thus far we agree.</hi>
+               </p>
+               <p>Ecclesiae particulares (ut earum communio postulat, <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>urae lumen, &amp; aequi<g ref="char:EOLhyphen"/>tas regularum, &amp; exemplorum Scripturae docent) possunt, &amp; saepissimè etiam debent confoederationem, aut consociationem mutuam inter se inire in Classibus &amp; Synodis. <hi>Ames. Medul lib. 1. cap. 39. sect. 27.</hi>
+               </p>
+            </div>
+            <div n="4" type="proposition">
+               <head>Proposition IV.</head>
+               <p>In these Classes and Synods the meeting of Church-Officers of the several Churches is an Ordinance of Iesus Christ, accompanied with his Authority and Power, for the helping of the Church against Errours, Schismes, and Scandals. <hi>Burroughs Iren. pag. 43. Cottons Keyes cap 6.</hi>
+               </p>
+            </div>
+            <div n="5" type="proposition">
+               <head>Proposition V.</head>
+               <p>
+                  <hi>These meetings may not only be convented upon particular and emergent oc<g ref="char:EOLhyphen"/>casions, but also held in a stated and fixed way at such times as the Churches shall think meet and expedient.</hi>
+               </p>
+               <p>The particulars of <hi>Time</hi> and <hi>Place</hi> being meere circumstances of an in<g ref="char:EOLhyphen"/>different nature, are confessedly left to a <hi>prudential determination.</hi>
+               </p>
+               <p>The stated <hi>weekely</hi> or <hi>monthly</hi> meetings of the Elderships of particular Congregations (besides <hi>occasional</hi>) are acknowledged warrantable and ex<g ref="char:EOLhyphen"/>pedient, upon supposal of some Emergencies which may offer themselves to consideration at every of those meetings. <hi>Par ratio</hi> of the <hi>Monthly,</hi> or <hi>Quarterly,</hi> or <hi>Annual</hi> Conventions of <hi>Classes</hi> or <hi>Synods.</hi>
+               </p>
+               <p>Scripture mentions not any set <hi>Church-meetings</hi> (except upon the Lords day) for preaching the Word, <hi>&amp;c.</hi> yet it is agreed the Churches may ap<g ref="char:EOLhyphen"/>point other weekly or monthly meetings for that purpose. The same may be said of <hi>Synodicall Assemblies.</hi>
+               </p>
+            </div>
+            <div n="6" type="proposition">
+               <head>Proposition VI.</head>
+               <p>This Classical and Synodal Authority and Power is not to be used in a privative or destructive way, to the violating or infringing of that power which God hath invested the particular Churches with, but in a Cumulative and Perfective way, for the regulating and helping them in the use and exercise of that power.</p>
+               <p>Ista Combinatio neque constituit novam Ecclesiae formam, neque tollere aut
+<pb n="5" facs="tcp:185022:3"/> minuere ullo modo debet libertatem ac potestatem illam, quam Christus suis Ecclesiis reliquit, cui tantùm dirigendae ac promovendae inservit. <hi>Ames Me<g ref="char:EOLhyphen"/>dulla ubi supra.</hi>
+               </p>
+               <p>
+                  <hi>It is granted that</hi> Classical <hi>or</hi> Synodal <hi>Authority cannot be by Scripture introduced over a particular Church in a privative or destructive way to that power which God hath bestowed upon it: But contrarily it is affirmed that all the power of</hi> Assemblies <hi>which are above particular Congregations is <hi>Cumulative,</hi> and <hi>Perfective</hi> to the power of those inferiour Congregations.</hi> Ius Divinum, cap. <hi>15.</hi> sect. <hi>4.</hi>
+               </p>
+            </div>
+            <div n="7" type="proposition">
+               <head>Proposition VII.</head>
+               <p>Matters of general and common concernment, or which are not proper to one Congregation, do properly belong to the cognizance of those meetings. Quod omnes tangit ab omnibus suo modo tractari debet. <hi>Axiom.</hi>
+               </p>
+            </div>
+            <div n="8" type="proposition">
+               <head>Proposition VIII.</head>
+               <p>
+                  <hi>In matters of greater difficulty and weight (as</hi> viz. <hi>the calling of Mini<g ref="char:EOLhyphen"/>sters, excommunicating of Members,</hi> &amp;c.) <hi>it is expedient and requisite that particular Churches do advise and consult with the Classes and Synods respec<g ref="char:EOLhyphen"/>tively, craving their direction and concurrence, before they proceed to the ex<g ref="char:EOLhyphen"/>ercise of that power which is vested in them.</hi>
+               </p>
+               <p>In matters of great moment no particular Church ought to proceed with<g ref="char:EOLhyphen"/>out first consulting the sister Churches. <hi>Apologet. Narrat. pag.</hi> 16.</p>
+               <p>The 24. <hi>Churches</hi> of <hi>Geneva</hi> had power of governing themselves, but for greater <hi>edification</hi> they do voluntarily confederate not to use nor exercise their power, but with mutual Communication, one asking the counsel of another in that common <hi>Presbytery.</hi> Baines Dioces. Tryal. pag. 21.</p>
+               <p>
+                  <hi>Geneva</hi> made this <hi>Consociation,</hi> not as if the <hi>Prime Churches</hi> were im<g ref="char:EOLhyphen"/>perfect, and to make one Church by this union; but because though they were intire Churches, and had the power of Churches, yet they needed this support in the exercise of it, and that by this means the <hi>Ministers</hi> and <hi>Seniors</hi> of it might have Communion. <hi>Idem. Ibid.</hi>
+               </p>
+               <p>
+                  <hi>Classium &amp; Synodorum est, quando difficultas aliqua subest, communi con<g ref="char:EOLhyphen"/>silio declarare &amp; decernere quinam debeant excommunicari.</hi> Ames Cas. Cons. lib. 4. cap. 29. sect. 23.</p>
+            </div>
+            <div n="9" type="proposition">
+               <head>Proposition IX.</head>
+               <p>
+                  <hi>In case of remiss or Mal-Administration, or any scandal through corrup<g ref="char:EOLhyphen"/>tion in Doctrine, or Practice, the Classes or Synods respectively may and ought to take notice of the miscariages of particular Churches being complained of to them, and to call them to give an account of their waies and proceedings, which accordingly they in conscience are bound to do.</hi>
+               </p>
+               <p>
+                  <hi>Synods</hi> may by the power they have from Christ admonish men o<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <pb n="6" facs="tcp:185022:4"/> Churches in his name, when they see evils continuing in, or growing upon the Church, and their <hi>Admonitions</hi> carry with them the Authority of Jesus Christ. <hi>Burroughs Iren. ubi suprà. Cottons Keyes, cap.</hi> 6. <hi>sect.</hi> 3. <hi>pag.</hi> 24.</p>
+               <p>This is acknowledged to be a sacred and undoubted principle and su<g ref="char:EOLhyphen"/>preme Law, to be observed among all Churches, that a Church or Churches challenged to <hi>offend</hi> or <hi>differ,</hi> are to submit themselvs (upon the challenge of the offence, or complaint of the person wronged) to the most full and open triall and examination by other neighbour Churches, <hi>&amp;c. Apologet. Narrat. pag.</hi> 17.</p>
+            </div>
+            <div n="10" type="proposition">
+               <head>Proposition X.</head>
+               <p>Any person or persons wronged and injured by the particular Churches may complaine and appeale unto the Iudgement of the said Classes and Synods for the redress of their grievances.</p>
+               <p>Cum in causis &amp; personis Ecclesiasticis multae lites oriantur, jus Appel<g ref="char:EOLhyphen"/>lationum necessario concedendum quis neget? <hi>Norton Resp. ad Apollon. pag. 113. ex Parkero, Polit. lib. 3. cap. 20.</hi> Appellationes sunt juris divini &amp; natu<g ref="char:EOLhyphen"/>ralis, &amp; in omni societate admodum necessariae, propter multorum judicum ini<g ref="char:EOLhyphen"/>quitatem &amp; ignorantiam. <hi>Whitaker Controvers. 4. de Rom. Pontif. q. 4. cap. 2. pag. 470. Apolog. Narrat ubi suprà.</hi>
+               </p>
+            </div>
+            <div n="11" type="proposition">
+               <head>Proposition XI.</head>
+               <p>The determinations of the said Classes and Synods, so far as they are agree<g ref="char:EOLhyphen"/>able to the word, do bind the particular Churches, and all the members there<g ref="char:EOLhyphen"/>of, and that not only materially, but Formally and Authoritatively, so as they are obliged reverently to esteeme of them, and dutifully to submit unto them, not only for the word, but also for the Synods sake.</p>
+               <p>Sententia Synodica obligat directivè, no<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tamen Juridicè. <hi>Norton Resp. ad Apol. pag. 125.</hi>
+               </p>
+               <p>
+                  <hi>The</hi> Admonitions <hi>of Synods carry with them the Authority of Je<g ref="char:EOLhyphen"/>sus Christ.</hi> Burroughs Iren. ubi suprà.</p>
+               <p>Synods <hi>have power by the grace of Christ not only to give</hi> light <hi>and</hi> counsel <hi>in matters of</hi> Truth <hi>and</hi> Practice, <hi>but also to</hi> command, <hi>and</hi> enjoine <hi>the things to be</hi> beleeved <hi>and</hi> done. Cottons Keyes, pag. <hi>25.</hi>
+               </p>
+               <p>
+                  <hi>This</hi> binding power <hi>ariseth not only</hi> materially <hi>from the weight of the matters imposed, (which are necessary</hi> necessitati praecepti, <hi>from the word,) but also</hi> formally <hi>from the Authority of the Synod, which being an Ordinance of Christ, bindeth the more for the Synods sake.</hi> Idem. Ibid.</p>
+            </div>
+            <div n="12" type="proposition">
+               <head>Proposition XII.</head>
+               <p>In case any of the particular Churches shall obstinately refuse to hearken, and submit to such their determinations, after all other Brotherly and Christi<g ref="char:EOLhyphen"/>an waies assayed and used for their Reformation, they may not only withdraw Communion from them, but also declare in the name of Iesus Christ, that they
+<pb n="7" facs="tcp:185022:4"/> are not to be received into fellowship with any other of the Churches of Christ, nor to have Communion any longer one with another as a Church in the Ordi<g ref="char:EOLhyphen"/>nances of Iesus Christ. <hi>Burroughs Iren. pag. 43.</hi>
+               </p>
+               <p>
+                  <hi>The Churches offended may and ought, upon the impenitency of the Churches offending, pronounce that</hi> heavy sentence <hi>against them of with<g ref="char:EOLhyphen"/>drawing and renouncing all Christian Communion with them untill they re<g ref="char:EOLhyphen"/>pent,</hi> &amp;c. Apolog. Narrat. pag. <hi>17.</hi>
+               </p>
+               <p>Quando autem hic vel ille coetus habendus sit pro non Ecclesiâ, penes Conci<g ref="char:EOLhyphen"/>lium in statu Ecclesiarum ordinato, judicium esto. <hi>Norton Resp. ad Apol. p. 167.</hi>
+               </p>
+               <p>Integrae Ecclesiae possunt, propter manifestas Haereses, aut flagitia, damnari, deseri, rejici (<hi>viz.</hi> à Classibus aut Synodis) quod est Analogum Excommuni<g ref="char:EOLhyphen"/>cationis. <hi>Ames Consc. Cas. lib. 4. cap. <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>9. sect. 26.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="text">
+            <head>The Verdict or Result of the foresaid Propositions.</head>
+            <p>VPon these <hi>Concessions</hi> how easily, how fairly may this unhappy difference be compremised and taken up betwixt these dissenting parties? And that to the satisfaction and content of both, so as each may enjoy the <hi>substance</hi> of what is contended for. Those of the <hi>Congregational</hi> way their just privilege of <hi>Church-Independency:</hi> And those of the <hi>Classical</hi> way their useful and ne<g ref="char:EOLhyphen"/>cessary support of a <hi>Presbyterian Politie.</hi> And let me add, both these with<g ref="char:EOLhyphen"/>out any real prejudice to that claime which a third Party maketh to a <hi>Primi<g ref="char:EOLhyphen"/>tive* </hi>
+               <note n="*" place="margin">
+                  <p>Essentiale fuit, &amp;c. quod ex Dei ordinatione perpe<g ref="char:EOLhyphen"/>tuâ necesse fuit, est, &amp; erit, ut in Presbyterio quispiam &amp; loco, &amp; dig<g ref="char:EOLhyphen"/>nitate primus, actioni gu<g ref="char:EOLhyphen"/>bernandae praesit. <hi>Beza de Ministrorum Evang. Grad. cap. 23.</hi>
+                  </p>
+                  <p>Tales Episcopos divinitus, &amp; quasi ipsius Christi vo<g ref="char:EOLhyphen"/>ce, constitutos, absit ut unquam simus inficiati. <hi>Idem ibid. cap. 21.</hi>
+                  </p>
+               </note>
+               <hi>Presidencie,</hi> which <hi>Beza</hi> (and not a few of his way besides him) looketh upon as both <hi>Rational</hi> and <hi>Scriptural.</hi> Now where <hi>substance</hi> may be had, to what purpose serves an eager litigation about shaddows? where the thing is accorded, what matters it for words? That <hi>Classical</hi> and <hi>Synodal</hi> Conventions are not only <hi>useful,</hi> but <hi>necessary,</hi> it is agreed well nigh at all hands. What a poore quarrel is it then to contend, whether those meetings may be <hi>stated</hi> and <hi>fixed,</hi> or must be only <hi>emergent</hi> and <hi>occasional?</hi> That the <hi>Representatives</hi> of Churches consociated have an <hi>Authoritative power,</hi> ob<g ref="char:EOLhyphen"/>liging each particular Congregation to a dutiful submis<g ref="char:EOLhyphen"/>sion to their determinations, is yeelded and acknow<g ref="char:EOLhyphen"/>ledged by the moderate on both sides. What matters it then whether that <hi>Obligation</hi> be looked upon as simply <hi>Directive,</hi> or formally <hi>Iuridical?</hi> that <hi>Authority</hi> said to be of <hi>Counsel</hi> or <hi>Iurisdiction?</hi> So long as particular <hi>Congre<g ref="char:EOLhyphen"/>gations</hi>
+               <pb n="8" facs="tcp:185022:5"/> not hearkening to the Brotherly Admonitions of a <hi>Presbyterated Com<g ref="char:EOLhyphen"/>bination</hi> may be proceeded against, nor only in a <hi>Negativo</hi> way, by with<g ref="char:EOLhyphen"/>drawing the <hi>right hand of Fellowship</hi> from them, but in a <hi>Positive,</hi> by pro<g ref="char:EOLhyphen"/>nouncing them <hi>Non Ecclesias,</hi> no longer worthy of the <hi>name</hi> and <hi>privileges</hi> of a <hi>Church,</hi> what bootes it to contest about the for-formality of a <hi>Church-Censure,</hi>
+               <note place="margin">
+                  <hi>Jura prohibent Encommu<g ref="char:EOLhyphen"/>nicare Collegium, vel Communitatem quià con<g ref="char:EOLhyphen"/>tingeret innoxios irritiri.</hi> Davenant Adhort. ad pacem Ecclesi. cap. 9. Rat. 2. Ex Decret. 6. de sentent. excom.</note> which seemeth more properly to lye against particular persons, then aggre<g ref="char:EOLhyphen"/>gated Bodies? Away then with these dividing names, which are made and set as brands of infamy by those who understand them not, upon those who deserve them not. Seeing the <hi>Presbyterian</hi> is an <hi>Independent,</hi> asserting the <hi>equal,</hi> and in some cases <hi>entire</hi> (though not <hi>absolute,</hi> which is Gods peculiar) power of particular Congregations: And the <hi>Independent</hi> is, and must be a <hi>Presbyterian,</hi> (if any thing, the word hold<g ref="char:EOLhyphen"/>ing forth not so much as a shadow of any other kind of Church-Government, whether in the <hi>Old</hi> Testament or <hi>New,</hi> then what is managed by a <hi>Presby<g ref="char:EOLhyphen"/>tery,</hi>) let them henceforth be <hi>fratres in uno, Brethren in one,</hi> of one <hi>Heart,</hi> and one <hi>way,</hi> walking together as two which are agreed;<note n="¶" place="margin">And who can tell how much and how far the Lord may stretch forth the blessing of such a peaceable con<g ref="char:EOLhyphen"/>descendency, to more general acceptance, and accommodation? <hi>Vide Cottons</hi> Counsel to the Church at <hi>Boston,</hi> in old <hi>England,</hi> in praefat to the holinesse of Church-members.</note> ¶ making use of these sacred <hi>Combinations</hi> (the present want whereof whilest it is <hi>affected</hi> in some, and <hi>necessi<g ref="char:EOLhyphen"/>tated</hi> in others, speaketh sad things of, and to the poor distracted Church of God in this Nation) for the strengthning of the hands each of other against the common Adversary, <hi>Satan</hi> and <hi>Antichrist,</hi> with all their Instruments and Adherents. So shall <hi>God</hi> have the <hi>glory,</hi> his <hi>Church security</hi> and <hi>peace,</hi> his <hi>Gospel</hi> shall be propagated, his <hi>people</hi> edified, <hi>growing up</hi> (as that ty<g ref="char:EOLhyphen"/>pical fabrick once did without the noise of <hi>Axes</hi> and <hi>Hammers) unto an holy Temple in the Lord.</hi> Which who so desireth not, let <hi>Pauls Anathema Maranatha</hi> take hold of him, as be<g ref="char:EOLhyphen"/>ing one that <hi>loveth not the Lord Iesus, let him be had in execration unto death.</hi>
+            </p>
+            <q>
+               <p>Woe to him that is alone, for he falleth, and there is not a second to lift him up. <bibl>
+                     <hi>Eccl. 4.10.</hi>
+                  </bibl>
+               </p>
+               <p>Without Counsel purposes are disappointed, but in the multitude of Counsel<g ref="char:EOLhyphen"/>lours they are established. <bibl>
+                     <hi>Prov. 15.22.</hi>
+                  </bibl>
+               </p>
+               <p>As they went through the Cities, they delivered them the decrees for to keep that were ordained of the Apostles and Elders which were at Ie<g ref="char:EOLhyphen"/>rusalem, and so were the Churches established, <hi>&amp;c.</hi>
+                  <bibl>
+                     <hi>Acts 16.4, 5.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
